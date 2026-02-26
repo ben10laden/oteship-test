@@ -1,0 +1,48 @@
+{
+  "hero": {
+    "title": "OTESHIP",
+    "subtitle": "Erasmus+ Project for Inclusive Entrepreneurship",
+    "description": "Empowering students with disabilities through handmade ceramics and workplace inclusion initiatives across three special education schools",
+    "viewCeramics": "View Workshops",
+    "learnMore": "Learn More"
+  },
+  "about": {
+    "title": "About OTESHIP",
+    "description": "Our Erasmus+ project bridges the gap between special education and inclusive entrepreneurship through innovative ceramic arts programs"
+  },
+  "goals": {
+    "title": "Project Goals",
+    "description": "Our mission is to create sustainable pathways for inclusive entrepreneurship and meaningful employment",
+    "skillDevelopment": "Skill Development",
+    "skillDevelopmentDesc": "Enhance ceramic crafting abilities and entrepreneurial skills among students with disabilities",
+    "teacherTraining": "Teacher Training",
+    "teacherTrainingDesc": "Provide comprehensive professional development for educators in inclusive teaching methods",
+    "employerEngagement": "Employer Engagement",
+    "employerEngagementDesc": "Build partnerships with employers committed to inclusive hiring practices",
+    "handsOnLearning": "Hands-On Learning",
+    "handsOnLearningDesc": "Our students develop practical skills through guided ceramic workshops and real-world business experiences"
+  },
+  "schools": {
+    "title": "Partner Schools",
+    "description": "Three specialized education institutions working together to create inclusive opportunities"
+  },
+  "ceramics": {
+    "title": "Handmade Ceramics",
+    "description": "Beautiful, functional ceramic pieces crafted by our talented students, showcasing their skills and creativity"
+  },
+  "opportunities": {
+    "title": "Professional Development Opportunities",
+    "description": "Join our comprehensive training programs designed for educators, employers, and community leaders"
+  },
+  "contact": {
+    "title": "Get Involved",
+    "description": "Join our mission to create inclusive opportunities for students with disabilities",
+    "contactInfo": "Contact Information",
+    "sendMessage": "Send us a Message",
+    "name": "Name *",
+    "email": "Email *",
+    "phone": "Phone Number *",
+    "message": "Message *",
+    "sendButton": "Send Message"
+  }
+}

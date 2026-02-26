@@ -1,0 +1,77 @@
+{
+  "hero": {
+    "tag": "erasmus+ project",
+    "title": "Guide to Practices for the Development and Promotion of Entrepreneurship",
+    "description": "In Special Schools: A Comprehensive Guide for Educators, Parents, and Stakeholders.",
+    "startReading": "Start Reading"
+  },
+  "preface": {
+    "title": "Preface",
+    "paragraphs": [
+      "The guide you are reading was created as part of the implementation of the approved European programme Erasmus+ entitled <b>“Our tradition… our entrepreneurship!”.</b>",
+      "Our basic idea was to combine local tradition with students’ skills. Through ceramics and art workshops, students worked on new techniques, exchanged ideas, and created products inspired by the culture of each region."
+    ],
+    "bodiesTitle": "Collaborating Bodies:",
+    "bodies": [
+      "Ε.Ε.Ε.ΕΚ. Άργους Ορεστικού (Greece)",
+      "Manisa Ozel Egitim Uygulama Okulu (Turkey)",
+      "Specjalny Ośrodek Szkolno-Wychowawczy (Poland)"
+    ]
+  },
+  "law": {
+    "title": "Legislation & Rights",
+    "description": "The UN has adopted the Convention on the Rights of Persons with Disabilities. Regarding work, Article 27 recognizes that persons with disabilities have the same right to employment as any other citizen.",
+    "rightsTitle": "Basic Rights",
+    "rights": [
+      "Elimination of discrimination at every stage of employment.",
+      "Protection for fair wages and equal opportunities.",
+      "Access to career guidance and training.",
+      "Adaptation of workplaces to the needs of persons with disabilities."
+    ],
+    "lawCardTitle": "Greek Legislation",
+    "lawCardDesc": "According to the Constitution (Article 21, par. 6), people with disabilities have the right to professional integration.",
+    "lawTitle": "Law 2643/1998",
+    "lawDesc": "Businesses with over 50 people are required to hire 8% of people with disabilities."
+  },
+  "employment": {
+    "title": "Type of Employment",
+
+    "puTitle": "Public Sector",
+    "puDesc": "Recruitment through ASEP with special points or announcements exclusively for people with disabilities (e.g. 6K/2024).",
+    "puBenefits": ["KEPA Certificate", "5% Quota in general positions"],
+
+    "prTitle": "Private Sector",
+    "prDesc": "Businesses, KINSEP and NGOs. 8% recruitment obligation for large companies.",
+    "prSubtitle": "Integration Steps:",
+    "prSteps": [
+      "Skills training",
+      "Supported employment",
+      "Position adjustment"
+    ],
+
+    "frTitle": "Freelancing",
+    "frDesc": "Possibility of self-employment with significant tax breaks.",
+    "frBenefits": ["Solidarity contribution exemption", "Tax & Deductions"],
+
+    "successTitle": "Indicative Examples of Success"
+  },
+  "skills": {
+    "title": "Acquisition of Professional Skills"
+  },
+  "business": {
+    "title": "Entrepreneurship in Special Schools",
+    "description": "Entrepreneurship is not just an activity, but a mechanism for strengthening students’ active participation in society.",
+    "benefitsTitle": "Benefits for Students",
+    "stepsTitle": "Implementation Steps"
+  },
+  "municipality": {
+    "familyTitle": "The Role of the Family",
+    "familyDesc": "The family is the first and most stable pillar of support.",
+    "munTitle": "The Role of the Municipality",
+    "munDesc": "Municipalities understand local community needs and can create local ecosystems."
+  },
+  "footer": {
+    "text": "Erasmus+ Project: \"Our tradition... our entrepreneurship!\" ",
+    "copyright": "&copy; 2024 All Rights Reserved."
+  }
+}

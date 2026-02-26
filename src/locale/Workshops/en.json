@@ -1,0 +1,18 @@
+{
+  "hero": {
+    "title": "Shaping Futures Through Ceramic Art",
+    "description": "A cross-cultural journey of creativity and inclusion, uniting students from three special education schools across Europe to explore the tactile language of clay.",
+    "exploreWorkshops": "Explore Workshops"
+  },
+  "about": {
+    "title": "Collaborative Ceramics Workshops"
+  },
+  "gallery": {
+    "title": "Student Gallery",
+    "description": "A curated selection of works produced by our students.",
+    "viewMore": "View All Works"
+  },
+  "workshopCardBig": {
+    "keyOutcomes": "Key Outcomes"
+  }
+}

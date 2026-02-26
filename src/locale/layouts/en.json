@@ -1,0 +1,27 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "guide": "Guide",
+    "ceramics": "Workshops",
+    "contact": "Contact"
+  },
+  "footer": {
+    "title": "OTESHIP",
+    "description": "An Erasmus+ project dedicated to promoting disability workplace inclusion through handmade ceramics and entrepreneurship education.",
+    "coFunded": "Co-funded by the European Union",
+    "quickLinks": "Quick Links",
+    "home": "Home",
+    "about": "About",
+    "partnerSchools": "Partner Schools",
+    "ceramics": "Workshops",
+    "contact": "Contact",
+    "projectReports": "Project Reports",
+    "trainingMaterials": "Training Materials",
+    "bestPractices": "Best Practices",
+    "newsUpdates": "News & Updates",
+    "privacyPolicy": "Privacy Policy",
+    "copyright": "© {{year}} OTESHIP Project. All rights reserved.",
+    "projectNumber": "Project Number: {{number}}"
+  }
+}

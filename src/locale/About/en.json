@@ -1,0 +1,31 @@
+{
+  "hero": {
+    "title": "Building Futures Through Craft, Collaboration, and Inclusion",
+    "description": "OTESHIP is an Erasmus+ initiative uniting three special education schools across Europe to empower students with disabilities through ceramic entrepreneurship and inclusive workplace pathways.",
+    "exploreImpact": "Explore Our Impact"
+  },
+  "about": {
+    "title": "Our Story",
+    "paragraphs": [
+      "OTESHIP was born from a simple yet powerful observation: students with disabilities possess incredible creative potential that often goes untapped in traditional employment pathways. Three special education schools across Europe came together under the Erasmus+ framework to change this narrative.",
+      "We recognized that ceramic arts offer more than just a craft—they provide a therapeutic, tactile, and deeply rewarding medium for skill development. By combining hands-on ceramic training with entrepreneurial education, we're creating a bridge between artistic expression and economic independence.",
+      "Our vision extends beyond individual success stories. We're building a replicable model that can be adopted by schools and organizations across Europe, proving that inclusive entrepreneurship isn't just possible—it's transformative. Through collaboration, innovation, and unwavering commitment to our students, we're reshaping what's possible for young people with disabilities."
+    ]
+  },
+  "process": {
+    "title": "Behind the Scenes: The Process"
+  },
+  "impact": {
+    "title": "Impact in Numbers"
+  },
+  "schools": {
+    "title": "Meet the Schools"
+  },
+  "future": {
+    "title": "Looking Ahead",
+    "description": "The future of OTESHIP is bright and ambitious. We're scaling our model to reach more schools across Europe, developing online training modules for educators, and creating a certification program for inclusive entrepreneurship. Our vision includes expanding product lines, building a digital marketplace for student-made ceramics, and establishing a network of employers committed to inclusive hiring. Together, we're proving that disability is not a barrier to success—it's a unique strength that enriches our communities and economies."
+  },
+  "schoolCardBig": {
+    "learnMore": "Learn More"
+  }
+}

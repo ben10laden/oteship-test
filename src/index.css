@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+@import "tailwindcss";
+@import "@fortawesome/fontawesome-free/css/all.min.css";
+@import "flag-icons/css/flag-icons.min.css";
+@custom-variant dark (&:where(.dark, .dark *));
+@import "aos/dist/aos.css";
+
+:root {
+  --color-primary: #2563eb;
+  --color-primary-hover: #1c4bc7;
+  --color-primary2: #4566f7;
+  --color-primary2-hover: #3854d3;
+  --color-secondary: #4b5563;
+  --color-secondary-light: #6b7280;
+  --color-dark-text: #111827;
+  --color-dark2-text: #374151;
+  --color-light1-text: #dbeafe;
+  --color-light2-text: #bfdbfe;
+  --color-light3-text: #d1d5db;
+  --color-bg-primary: #f9fafb;
+  --color-bg-dark: #1f2937;
+  --color-divider: #374151;
+  --color-gold: #f59e0b;
+  --color-gold2: #db8908;
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+}
+
+@layer base {
+  body {
+    font-family: var(--font-sans);
+    overflow-x: hidden;
+  }
+}
+
+.link-container:hover .hover-anim::before {
+  width: 100%;
+  left: 0;
+}
+
+.hover-anim {
+  text-decoration: none;
+  position: relative;
+  transition: 0.2s;
+}
+
+.hover-anim::before {
+  content: "";
+  position: absolute;
+  width: 0;
+  height: 2px;
+  bottom: 0;
+  left: 50%;
+  background-color: var(--hover-color, #11182781);
+  transition: all 0.2s;
+}
+
+.hover-anim:hover::before {
+  width: 100%;
+  left: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
